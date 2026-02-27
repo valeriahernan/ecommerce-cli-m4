@@ -30,6 +30,3 @@ jobs:
 
       - name: Package application
         run: mvn package
-
-      - name: Update dependency graph
-        uses: advanced-security/maven-dependency-submission-action@v3
