@@ -1,21 +1,33 @@
 # ecommerce-cli-m4
-
+///////////////////////////////////////////////
 Aplicación de consola Java para gestión de catálogo, carrito y compra.
+///////////////////////////////////////////////
+
 
 ## Ejecutar
 Compilar:
 javac src/**/*.java
+///////////////////////////////////////////////
+
 
 Ejecutar:
 java Main
+///////////////////////////////////////////////
+
 
 ## Funciones
 - ADMIN: gestión productos
 - USUARIO: carrito y compra
 - Descuentos automáticos
+///////////////////////////////////////////////
+
 
 ## Ejemplo Compra
 Agregar producto → ver carrito → confirmar compra → aplicar descuentos automáticamente.
+///////////////////////////////////////////////
+
 
 Repositorio GitHub:
-https://github.com/usuario/ecommerce-cli-m4
+https://github.com/valeriahernan/ecommerce-cli-m4
+///////////////////////////////////////////////
+
